@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tokentracker/static/css/main.d4f6ca58.css",
+    "main.js": "/tokentracker/static/js/main.95db1061.js",
+    "index.html": "/tokentracker/index.html",
+    "main.d4f6ca58.css.map": "/tokentracker/static/css/main.d4f6ca58.css.map",
+    "main.95db1061.js.map": "/tokentracker/static/js/main.95db1061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f6ca58.css",
+    "static/js/main.95db1061.js"
+  ]
+}
